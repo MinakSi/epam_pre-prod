@@ -59,7 +59,6 @@ public class Shop {
     private static final String ENTER_LOCALE_MSG = "Enter preferred locale: ru/en";
     private static final String UNKNOWN_COMMAND_ERR = "Unknown command above :(   Please, try again";
     private static final String ENTER_INPUT_TYPE_MSG = "What is type of input? console / random";
-//    private static final String SOMETHING = "something";
 
     public Shop() {
         this.scanner = new Scanner(System.in);
